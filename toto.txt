@@ -1,0 +1,17 @@
+todo
+=====
+spacebar not working [fixed]
+Replace all P references
+bug when moving into square next to P doesnt end game nicely
+Build an array of songs
+Add levels
+Add a win condition
+Add combat
+Add monsters
+Procedural genrate simple song lyric 
+Add the text content for teh various non-game screens
+Clean up in general 
+File up everything
+Procedurally generate a more complex song lyric
+Test out export to itunes then youtube
+add the min version of rot.js

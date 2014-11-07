@@ -1,0 +1,47 @@
+ 	    h1
+    	{
+    		color: white;
+    		font-family: courier;
+    		text-align: center;
+    	}
+    	body
+    	{
+    		background-color: black;
+    		width : 100%;
+    	}
+    	#gameSpan
+    	{
+    		border: 1;
+    		border-style: solid;
+    	}
+    	#gameScreen
+    	{
+    		display: block;
+    	}
+        #gameText
+        {
+            color: white;
+            font-family: courier;
+            text-align: center;
+        }
+        #gameTime
+        {
+            color: white;
+            font-family: courier;
+            text-align: center;
+        }
+        #youTubeDiv
+        {
+            text-align: center;
+            pointer-events: none;
+        }
+        #DedicationDiv
+        {
+            color: white;
+            font-family: courier;
+            text-align: center;
+        }
+        #MainDiv
+        {
+            display: none;
+        }
